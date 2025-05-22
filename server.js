@@ -37,5 +37,5 @@ app.post('/api/generate', async (req, res) => {
 });
 
 app.listen(PORT, () => {
-    console.log(`https://quasar-weak-ironclad.glitch.me`);
+    console.log(`https://prompt2game-backends.vercel.app`);
 });
