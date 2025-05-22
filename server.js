@@ -37,5 +37,5 @@ app.post('/api/generate', async (req, res) => {
 });
 
 app.listen(PORT, () => {
-    console.log(`Server running on http://localhost:3000`);
+    console.log(`https://quasar-weak-ironclad.glitch.me`);
 });
